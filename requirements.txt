@@ -1,0 +1,16 @@
+streamlit
+yfinance
+pandas
+numpy
+requests
+xgboost
+shap
+plotly
+prophet
+transformers
+scikit-learn
+tensorflow
+keras
+torch
+torchvision
+torchaudio
