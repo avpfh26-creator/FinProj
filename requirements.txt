@@ -14,3 +14,6 @@ keras
 torch
 torchvision
 torchaudio
+textblob
+statsmodels
+pmdarima
